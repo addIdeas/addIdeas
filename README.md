@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @addIdeas, a finn, diving deep into the wonderous world of programmable computers.
+- 👋 Hi, I’m @tonipal, a finn, diving deep into the wonderous world of programmable computers.
 
 - 👀 I’m interested in software development, programming and getting into the community of like minded people.
 
